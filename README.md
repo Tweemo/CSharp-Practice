@@ -9,7 +9,7 @@
 * `.csv` with 100 records.
 * Utility file to help display the data.
 * My belief that you can do this!
-* Help at any point, you can either message me or looking at a working example at https://github.com/Tweemo/CSV-Practice
+* Help at any point, you can either message me or look at the working example at https://github.com/Tweemo/CSV-Practice
 
 ---
 
